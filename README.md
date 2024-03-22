@@ -1,6 +1,6 @@
 # Mortality-Risk-Score
 
-The risk score calculator can be found in "rTOF risk calculator.xlsx". An example input and output is provided.  
+The risk score calculator can be found in "rTOF risk calculator.xlsx". An example input and output is provided. To download the spreadsheet, select the green "< > Code" button, follwed by "Download ZIP".
 
 This risk score can be used to risk stratify patients with repaired tetralogy of Fallot. 
 
