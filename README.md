@@ -1,6 +1,9 @@
 # Mortality-Risk-Score
 
-This risk score can be used to risk stratify patients with repaired tetralogy of Fallot.  
+The risk score calculator can be found in "rTOF risk calculator.xlsx". An example input and output is provided.  
+
+This risk score can be used to risk stratify patients with repaired tetralogy of Fallot. 
+
 Input parameters are:
 * Age (in years)
 * Body mass index (dichotimized based on BMI < 30 kg/m2 or >= 30 kg/m2)
