@@ -14,7 +14,7 @@ Input parameters are:
 ** Note that RVESVi requires BSA (calculated by the Haycock formula)  
 *** Note that the BVGFI equation is:  
 GFI=100 x  (EDV-ESV)/(1/2 (EDV+ESV)+(ventricular mass)/1.05)  
-BVGFI=(RVGFI+LVGFI)
+BVGFI=(RVGFI+LVGFI)/2
 
 Using these inputs, a final risk score is output. 10-year mortality risk based on risk scores is shown in the manuscript.  
 A risk score >= 4 is considered high-risk, and a risk score < 4 is considered low risk.
